@@ -1,0 +1,11 @@
+Trabecular bone microstructure plays a fundamental role in maintaining the structural integrity and functional stability of the temporomandibular joint (TMJ). The trabecular network within the mandibular condyle is responsible for distributing mechanical loads and absorbing stress during jaw movement. Any alteration in this microarchitecture can significantly impact joint biomechanics and accelerate degenerative processes.
+
+Bone Volume Fraction (BVTV) is a key quantitative radiomic parameter that represents the ratio of bone volume to total volume within a region of interest. It serves as a direct indicator of bone density and structural strength. A reduction in BVTV reflects loss of trabecular bone mass, which weakens the load-bearing capacity of the joint and increases susceptibility to microdamage and progressive degeneration. Lower BVTV values are strongly associated with advanced stages of osteoarthritis and structural deterioration of the condyle.
+
+In addition to BVTV, trabecular number (Tb.N) and trabecular separation (Tb.Sp) provide critical insights into bone quality. A decrease in trabecular number indicates loss of supportive bone elements, while an increase in trabecular separation reflects widening gaps within the bone network. These changes lead to reduced connectivity and compromised mechanical stability, making the joint more vulnerable to stress-induced damage.
+
+Radiomic alterations in trabecular structure often precede visible clinical symptoms, making them valuable early biomarkers for detecting TMJ osteoarthritis. Subtle changes in BVTV and trabecular organization can signal the onset of degeneration before significant pain or functional impairment occurs.
+
+Furthermore, longitudinal changes in BVTV (such as BVTV_change between baseline and follow-up scans) are particularly important for assessing disease progression. A continuous decrease in BVTV over time indicates ongoing bone resorption and worsening joint condition, while stable or increasing BVTV may suggest preserved structural integrity or response to treatment.
+
+Overall, radiomic features such as BVTV, trabecular number, and separation provide a quantitative and objective framework for evaluating bone health, predicting disease progression, and supporting clinical decision-making in TMJ disorders.

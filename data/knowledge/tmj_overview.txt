@@ -1,0 +1,11 @@
+Temporomandibular joint osteoarthritis (TMJ-OA) is a chronic degenerative disorder affecting the mandibular condyle, articular cartilage, and surrounding joint structures. It is characterized by progressive cartilage degradation, subchondral bone remodeling, synovial inflammation, and alterations in joint biomechanics. These structural changes lead to compromised load distribution and increased mechanical stress within the joint.
+
+The condition often develops due to a combination of factors including aging, mechanical overloading, parafunctional habits such as teeth grinding (bruxism), trauma, and underlying systemic conditions. Over time, these factors contribute to deterioration of cartilage integrity and changes in bone microarchitecture.
+
+Common clinical manifestations include facial pain, tenderness around the jaw, joint clicking or popping sounds, grinding sensations (crepitus), and restricted jaw movement. Patients may also experience stiffness, especially in the morning or after prolonged jaw use. In some cases, asymmetry in jaw movement and deviation during opening may be observed.
+
+Radiographically, TMJ-OA is associated with features such as condylar flattening, erosion, osteophyte formation, and changes in trabecular bone structure. Radiomic indicators like Bone Volume Fraction (BVTV), trabecular thickness, and separation provide valuable insights into the degree of bone degeneration and structural integrity.
+
+Disease progression typically occurs in stages. Early-stage TMJ-OA presents with mild discomfort, intermittent joint noises, and minimal structural changes. Intermediate stages involve increased pain, inflammation, and noticeable bone remodeling. Advanced stages are marked by severe cartilage loss, significant bone deformation, persistent pain, and functional impairment of the joint.
+
+The progression rate varies among individuals and is influenced by factors such as age, bone density, mechanical stress, and overall joint health. Early detection and monitoring of structural and clinical changes are critical for preventing severe degeneration and improving patient outcomes.
